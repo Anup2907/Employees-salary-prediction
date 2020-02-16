@@ -3,10 +3,10 @@
 ![4D](https://user-images.githubusercontent.com/56169217/74596378-0c0d7d00-5014-11ea-96e7-99a717063311.png)
 
 
-'''========================================================================================    
+'''=============================================================================   
   Machine Learning template for Regression & Classification datasets that can be used by 
   calling the required functions from the respective classes:
-
+ 
   Class Data :          Contains functions load_file, consolidate_data, data_info, 
                         categorical_cols, numerical_cols, missing_data, potential_outlier, 
                         clean_data, obj_to_cat, label_encode, one_hot_encode
@@ -19,7 +19,7 @@
   Class Feat_engg :     Contains group_mean, group_median, group_std, group_max, group_min
 
   Class Model :         Contains train_model, test_results, print_summary, save_results 
-  ========================================================================================='''
+  =============================================================================='''
   
   **DISCOVER THE DATA**
   
