@@ -19,6 +19,9 @@
   Class Feat_engg :     Contains group_mean, group_median, group_std, group_max, group_min
 
   Class Model :         Contains train_model, test_results, print_summary, save_results 
+  
+  Please refer Please refer Python notebook:
+  https://github.com/Anup2907/salarypredictionportfolio/blob/master/Salary_predictions.ipynb
   =============================================================================='''
   
   **DISCOVER THE DATA**
@@ -111,7 +114,6 @@ Note: The below code is already hand tuned by using different set of hyperparame
 
 ![catBoost](https://user-images.githubusercontent.com/56169217/74597764-2f432700-502a-11ea-87f1-27962029bb9a.PNG)
 
-Please refer Python notebook: https://github.com/Anup2907/salarypredictionportfolio/blob/master/Salary_predictions.ipynb
 
 
   
