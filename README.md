@@ -2,28 +2,7 @@
 
 ![4D](https://user-images.githubusercontent.com/56169217/74596378-0c0d7d00-5014-11ea-96e7-99a717063311.png)
 
-
-'''=============================================================================   
-  Machine Learning template for Regression & Classification datasets that can be used by 
-  calling the required functions from the respective classes:
  
-  Class Data :          Contains functions load_file, consolidate_data, data_info, 
-                        categorical_cols, numerical_cols, missing_data, potential_outlier, 
-                        clean_data, obj_to_cat, label_encode, one_hot_encode
-
-  Class Regr_assump :   Contains functions target_dist, vif, ols_summ (joint_plot, QQ_plot) 
-
-  Class Descrip_stats : Contains functions describe, hist, log_transform, scatter_plot,
-                        count_box_plot
-
-  Class Feat_engg :     Contains group_mean, group_median, group_std, group_max, group_min
-
-  Class Model :         Contains train_model, test_results, print_summary, save_results 
-  
-  Please refer Please refer Python notebook:
-  https://github.com/Anup2907/salarypredictionportfolio/blob/master/Salary_predictions.ipynb
-  =============================================================================='''
-  
   **DISCOVER THE DATA**
   
 Feature file has all the independent features and Target file has dependent feature. After merging the both the files on unique identifier "jobId", we get the salary data. It has 1M rows and 9 columns.
