@@ -111,11 +111,6 @@ Note: The below code is already hand tuned by using different set of hyperparame
 
 ![catBoost](https://user-images.githubusercontent.com/56169217/74597764-2f432700-502a-11ea-87f1-27962029bb9a.PNG)
 
-**Feature Importance**
-
-![featimp](https://user-images.githubusercontent.com/56169217/75197221-5b922e00-5723-11ea-8bcf-e2c7aab0be1e.PNG)
-
-From the above snapshot, we can say that **Employees' years of experience** and **Employees' work location distance from Metropolis** are the important contributing factors in predicting employees' salary.
 
 # DEPLOY
 
