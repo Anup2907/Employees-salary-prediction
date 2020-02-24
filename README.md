@@ -13,7 +13,7 @@ Feature file has all the independent features and Target file has dependent feat
   
   2. CompanyId --> the company id where the employee works
   
-  3. Jobtype --> where the position of the job is junior, senior, CEO
+  3. Jobtype --> whether the position of the job is junior, senior, CEO
   
   4. Degree --> if the employee has degree, master's or phD
   
