@@ -27,13 +27,15 @@ Feature file has all the independent features and Target file has dependent feat
   
   9. Salary --> Salary in thousands (which is the target feature)
   
-   Identifying the numerical and categorical columns:
+ Identifying the numerical and categorical columns:
   
   ![cat_nums](https://user-images.githubusercontent.com/56169217/74597275-05860200-5022-11ea-8acf-3cf206880177.PNG)
   
+ Identifying the missing values:
+
   ![salary_info](https://user-images.githubusercontent.com/56169217/74596533-4415bf80-5016-11ea-89ca-ae7f8db72f25.PNG)
   
-  From the above screenshot, it is clear that there is no missing data in the dataframe but I could see the salary contain 0s in the distribution from below snapshot which needs to be removed as employees donot work without salaries. But before removing the 0 salaries, let's look at potential outliers of lower band and upper band
+ From the above screenshot, it is clear that there is no missing data in the dataframe but I could see the salary contain 0s in the       distribution from below snapshot which needs to be removed as employees donot work without salaries. But before removing the 0           salaries, let's look at potential outliers of lower band and upper band      
   
   ![potential outliers](https://user-images.githubusercontent.com/56169217/75195088-e886b880-571e-11ea-8b98-83866d53c870.PNG)
 
