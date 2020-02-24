@@ -47,9 +47,13 @@ The upper band of outliers is above 220.5k and lower band is below 8.5k. Let's c
   
   ![oil](https://user-images.githubusercontent.com/56169217/75193458-ec650b80-571b-11ea-96c7-3b31254d2d4b.PNG)
   
-  From the above snapshot, it is clear that Oil & Finance industries are known for higher salaries and hence the salaries looks legitimate
+  From the above snapshot, it is clear that Oil & Finance industries are known for higher salaries and hence the salaries looks legitimate.
+  
+  Now, let's look at the employees who have salaries below 8.5k, 
     
   ![outlier](https://user-images.githubusercontent.com/56169217/74597555-df169580-5026-11ea-8467-5779feadb659.PNG)
+  
+  From the above screenshot, we can say that this is a bad data and hence can be removed.
   
    Now let's look at dependent variable description and it's distribution
   
