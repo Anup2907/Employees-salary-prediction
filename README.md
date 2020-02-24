@@ -117,6 +117,10 @@ Note: The below code is already hand tuned by using different set of hyperparame
 
 From the above snapshot, we can say that **Employees' years of experience** and **Employees' work location distance from Metropolis** are the important contributing factors in predicting employees' salary.
 
+# DEPLOY
+
+Now the model is ready to be deployed to Production and other environments which could be scheduled to work either weekly or monthly depending on the volume of inflow data coming into the system.
+
   
   
 
