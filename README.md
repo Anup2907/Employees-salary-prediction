@@ -35,6 +35,10 @@ Feature file has all the independent features and Target file has dependent feat
   
   From the above screenshot, it is clear that there is no missing data in the dataframe but I could see the salary contain 0s in the distribution from below snapshot which needs to be removed as employees donot work without salaries. But before removing the 0 salaries, let's look at potential outliers of lower band and upper band
   
+  ![potential outliers](https://user-images.githubusercontent.com/56169217/75195088-e886b880-571e-11ea-8b98-83866d53c870.PNG)
+
+The upper band of outliers is above 220.5k and lower band is below 8.5k. Let's check who has above 220.5k salaries
+  
   ![ouliers](https://user-images.githubusercontent.com/56169217/75193240-69dc4c00-571b-11ea-9271-61b3020da34e.PNG)
 
   After examining potential outliers it is evident that All the C level executives have salaries above 220.5k as expected but there are some Junior positions having salaries >220k. Let's check from which industries, Junior positions have above 220k salaries.
