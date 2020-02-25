@@ -115,7 +115,7 @@ Note: The below code is already hand tuned by using different set of hyperparame
 
 ![featimp](https://user-images.githubusercontent.com/56169217/75199464-c85bf700-5728-11ea-82a1-0c05aba24e70.PNG)
 
-From the above screenshot, we can say that **Employees' salary experince** and **Employees' work location distance from metropolis** are the contributing factors in predicting the salary.
+From the above screenshot, we can say that **Employees' work experince** and **Employees' work location distance from metropolis** are the contributing factors in predicting the salary.
 
 # DEPLOY
 
