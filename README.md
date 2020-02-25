@@ -5,7 +5,16 @@
  
   **DISCOVER THE DATA**
   
-Feature file has all the independent features and Target file has dependent feature. After merging the both the files on unique identifier "jobId", we get the salary data. It has 1M rows and 9 columns.
+There are three MS Excel datasets:
+
+1. Test Features (The dataset which was already split as 25% of the total data for prediction after trained by ML algorithms)
+
+2. Train Features (The dataset which was already split as 75% of the total data for training into ML algorithms)
+
+3. Train Salaries (The dataset which was already split as 75% of the total employee salaries for training into ML algorithms  
+
+
+Feature file has all the independent features like Degree, Major etc and Target file has target feature, Salary. After merging the both the files on unique identifier "jobId", we get the whole salary data. It has 1M rows and 9 columns.
   
   The features of Salary data are:
   
