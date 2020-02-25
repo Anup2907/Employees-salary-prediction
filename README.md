@@ -5,7 +5,7 @@
  
   **DISCOVER THE DATA**
   
-There are three MS Excel datasets:
+There are three MS Excel files consisting of employees' data that is collected from famous job board:
 
 1. Test Features (The dataset which was already split as 25% of the total data for prediction after trained by ML algorithms)
 
