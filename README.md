@@ -1,9 +1,10 @@
+# 1. DEFINE
 # Using 4D Data Science framework to build ML models for predicting salaries of employees with low MSE from their qualifications and job locations.
 
 ![4D](https://user-images.githubusercontent.com/56169217/74596378-0c0d7d00-5014-11ea-96e7-99a717063311.png)
 
  
-  **DISCOVER THE DATA**
+# 2. DISCOVER THE DATA
   
 There are three MS Excel files consisting of employees' data that is collected from famous job board:
 
