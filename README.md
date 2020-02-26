@@ -89,6 +89,8 @@ The upper band of outliers is above 220.5k and lower band is below 8.5k. Let's c
   
   The count of employees who have their degree "None" is pretty high but we can't just interpret those employees doesn't have a degree.   This is a good example of data collection is done improperly or mistakes are made in data entry.
   
+  # 3. DEVELOP
+  
   **Feature Engineering**
   
   Feature engineering is important to get the best results out of models. I have created new features as "group_mean", "group_median",     "group_std", "group_min" and "group_max" that are the salary mean, median, stand deviation, maximum and minimum grouping all the         categorical features. Please refer below snap shot.
