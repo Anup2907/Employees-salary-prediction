@@ -78,9 +78,9 @@ The upper band of outliers is above 220.5k and lower band is below 8.5k. Let's c
 
   From the plots we can infer that,
   
-  1. Years of experience is linearly related to Salary (As YoE increases Salary increases) 
+  1. Employees' years of experience is linearly (positive) related to Salary (As YoE increases Salary increases) 
   
-  2. Miles from metropolis is non-linearly related to Salary (As MfM increases Salary decreases)
+  2. Miles from metropolis is linearly (negative) related to Salary (As MfM increases Salary decreases)
 
   Let's look at what majors are in demand and see their distributions,
   
