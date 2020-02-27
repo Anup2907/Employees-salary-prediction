@@ -63,7 +63,7 @@ The upper band of outliers is above 220.5k and lower band is below 8.5k. Let's c
     
   ![outlier](https://user-images.githubusercontent.com/56169217/74597555-df169580-5026-11ea-8467-5779feadb659.PNG)
   
-  From the above screenshot, we can say that this is a bad data and hence can be removed.
+  From the above screenshot, we can say that this is a bad data as employees do not have salaries less than 8000$ per annum and hence can be removed.
   
    Now let's look at dependent variable description and it's distribution
   
