@@ -133,6 +133,8 @@ From the above screenshot, we can say that **Employees' work experince** and **E
 
 Now the model is ready to be deployed to Production and other environments which could be scheduled to run ML models either weekly or monthly depending on the volume of inflow data coming into the system.
 
+Please visit the code at this link: https://github.com/Anup2907/Employees-salary-prediction/blob/master/Salary_predictions.ipynb
+
   
   
 
